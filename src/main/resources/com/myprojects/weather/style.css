@@ -1,0 +1,21 @@
+.mainText {
+    -fx-font-family: Consolas;
+    -fx-font-size: 32;
+    -fx-font-weight: bold;
+    -fx-spacing: 0px;
+    -fx-padding: 0px;
+    -fx-text-fill: #5b80bd;
+}
+.subText {
+    -fx-font-family: Consolas;
+    -fx-font-size: 14;
+    -fx-text-fill: #e9e9e9;
+}
+
+.icons {
+    -fx-padding: 0px;
+    -fx-spacing: 0px;
+}
+.hbox-background {
+    -fx-background-color: #5b80bd;
+}
